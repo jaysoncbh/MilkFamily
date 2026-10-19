@@ -1,0 +1,302 @@
+{
+  "characters": [
+    {
+      "id": "A101",
+      "zh": "奶鼠",
+      "en": "Milk Mouse"
+    },
+    {
+      "id": "A102",
+      "zh": "奶牛",
+      "en": "Milk Ox"
+    },
+    {
+      "id": "A103",
+      "zh": "奶虎",
+      "en": "Milk Tiger"
+    },
+    {
+      "id": "A104",
+      "zh": "奶兔",
+      "en": "Milk Rabbit"
+    },
+    {
+      "id": "A105",
+      "zh": "奶蛇",
+      "en": "Milk Snake"
+    },
+    {
+      "id": "A106",
+      "zh": "奶马",
+      "en": "Milk Horse"
+    },
+    {
+      "id": "A107",
+      "zh": "奶羊",
+      "en": "Milk Goat"
+    },
+    {
+      "id": "A108",
+      "zh": "奶猴",
+      "en": "Milk Monkey"
+    },
+    {
+      "id": "A109",
+      "zh": "奶鸡",
+      "en": "Milk Rooster"
+    },
+    {
+      "id": "A110",
+      "zh": "奶狗",
+      "en": "Milk Dog"
+    },
+    {
+      "id": "A111",
+      "zh": "奶猪",
+      "en": "Milk Pig"
+    },
+    {
+      "id": "A201",
+      "zh": "成年奶蛙",
+      "en": "Adult Milk Frog"
+    },
+    {
+      "id": "A202",
+      "zh": "奶团",
+      "en": "Milk Dumpling"
+    },
+    {
+      "id": "A301",
+      "zh": "奶龙",
+      "en": "Milk Dragon"
+    },
+    {
+      "id": "A112",
+      "zh": "奶鱼",
+      "en": "Milk Fish"
+    },
+    {
+      "id": "A113",
+      "zh": "奶虾",
+      "en": "Milk Shrimp"
+    },
+    {
+      "id": "A114",
+      "zh": "奶蜗牛",
+      "en": "Milk Snail"
+    },
+    {
+      "id": "A115",
+      "zh": "奶便便",
+      "en": "Milk Poo"
+    },
+    {
+      "id": "A203",
+      "zh": "奶朗普",
+      "en": "Milk Trump"
+    },
+    {
+      "id": "A204",
+      "zh": "中国奶龙",
+      "en": "Chinese Milk Dragon"
+    },
+    {
+      "id": "A302",
+      "zh": "奶佛",
+      "en": "Milk Buddha"
+    },
+    {
+      "id": "A401",
+      "zh": "粉色奶猫",
+      "en": "Pink Milk Cat"
+    },
+    {
+      "id": "A304",
+      "zh": "奶粉",
+      "en": "Milk Powder"
+    },
+    {
+      "id": "A303",
+      "zh": "奶蒜",
+      "en": "Milk Garlic"
+    },
+    {
+      "id": "A118",
+      "zh": "奶W",
+      "en": "Milk W"
+    },
+    {
+      "id": "A119",
+      "zh": "奶大象",
+      "en": "Milk Elephant"
+    },
+    {
+      "id": "A120",
+      "zh": "奶小象",
+      "en": "Milk Baby Elephant"
+    },
+    {
+      "id": "A205",
+      "zh": "奶虫",
+      "en": "Milk Bug"
+    },
+    {
+      "id": "A121",
+      "zh": "奶鸟",
+      "en": "Milk Bird"
+    },
+    {
+      "id": "A207",
+      "zh": "奶绵宝宝",
+      "en": "Milk Sponge"
+    },
+    {
+      "id": "A208",
+      "zh": "奶大星",
+      "en": "Milk Starfish"
+    },
+    {
+      "id": "A209",
+      "zh": "奶老板",
+      "en": "Milk Boss"
+    }
+  ],
+  "actions": [
+    {
+      "zh": "举奶旗挥拳",
+      "en": "Milk flag cheer"
+    },
+    {
+      "zh": "举枪指向镜头",
+      "en": "Aim at camera"
+    },
+    {
+      "zh": "休息",
+      "en": "Rest"
+    },
+    {
+      "zh": "偷吃撑肚",
+      "en": "Snack overload"
+    },
+    {
+      "zh": "吃雪糕",
+      "en": "Ice cream"
+    },
+    {
+      "zh": "奶嗝吹泡泡",
+      "en": "Milk bubble"
+    },
+    {
+      "zh": "委屈大哭",
+      "en": "Cry"
+    },
+    {
+      "zh": "开心",
+      "en": "Happy"
+    },
+    {
+      "zh": "开心跳跃",
+      "en": "Happy jump"
+    },
+    {
+      "zh": "开心蹦跳",
+      "en": "Happy hop"
+    },
+    {
+      "zh": "弓背哈气",
+      "en": "Hiss"
+    },
+    {
+      "zh": "待机",
+      "en": "Idle"
+    },
+    {
+      "zh": "打嗝吹鼻泡",
+      "en": "Burp bubble"
+    },
+    {
+      "zh": "打太极",
+      "en": "Tai chi"
+    },
+    {
+      "zh": "托腮休息",
+      "en": "Rest"
+    },
+    {
+      "zh": "抠肚脐闻手",
+      "en": "Belly-button sniff"
+    },
+    {
+      "zh": "拈花微笑",
+      "en": "Flower smile"
+    },
+    {
+      "zh": "拍肚皮吐奶泡",
+      "en": "Belly pat and milk bubbles"
+    },
+    {
+      "zh": "招呼",
+      "en": "Greet"
+    },
+    {
+      "zh": "挥手招呼",
+      "en": "Wave"
+    },
+    {
+      "zh": "捧腹大笑",
+      "en": "Laugh"
+    },
+    {
+      "zh": "灵魂出窍",
+      "en": "Soul escape"
+    },
+    {
+      "zh": "睡觉",
+      "en": "Sleep"
+    },
+    {
+      "zh": "笑着崩溃",
+      "en": "Laughing breakdown"
+    },
+    {
+      "zh": "纸箱卡住",
+      "en": "Box stuck"
+    },
+    {
+      "zh": "绿屁后狂笑",
+      "en": "Green puff giggles"
+    },
+    {
+      "zh": "蒜芽炸毛",
+      "en": "Startled garlic sprouts"
+    },
+    {
+      "zh": "触角打结",
+      "en": "Tangled antennae"
+    },
+    {
+      "zh": "踩奶",
+      "en": "Knead"
+    },
+    {
+      "zh": "转珠打结",
+      "en": "Tangled beads"
+    },
+    {
+      "zh": "追尾转圈",
+      "en": "Chase tail"
+    },
+    {
+      "zh": "金光打坐",
+      "en": "Golden meditation"
+    },
+    {
+      "zh": "金币卡胡子",
+      "en": "Coin stuck in whiskers"
+    },
+    {
+      "zh": "飞起喷奶",
+      "en": "Flying milk spray"
+    }
+  ]
+}
